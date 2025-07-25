@@ -12,7 +12,7 @@ An AI system that evaluates educational YouTube videos by analyzing transcripts 
 
 **Tech Stack:** Whisper, yt-dlp, OpenCV, GPT-4o, LangGraph, BLIP-2, PaddleOCR, FAISS, ChromaDB, PyMuPDF, Streamlit
 
-[🔗 Project Folder](./project-1-ai-yt-evaluator)
+[🔗 Project repo](https://github.com/ruchit2005/EvalMyYT)
 
 ---
 
@@ -22,7 +22,7 @@ Extracts structured and unstructured information from complex legal documents li
 
 **Tech Stack:** PyMuPDF, pdfminer.six, OpenAI, spaCy, FAISS, LangChain, sentiment analysis
 
-[🔗 Project Folder](./project-2-legal-doc-analyzer)
+[🔗 Project link](https://github.com/ruchit2005/HackRx)
 
 ---
 
@@ -32,7 +32,7 @@ A machine learning-based model to predict Yes Bank’s stock price using histori
 
 **Tech Stack:** Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-[🔗 Project Folder](./project-3-yesbank-stock-model)
+[🔗 Project link](https://github.com/ruchit2005/YES-Bank-stock-prediction)
 
 ---
 
